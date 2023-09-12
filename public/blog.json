@@ -1,0 +1,52 @@
+[
+    {
+        "id": "12345",
+        "cover_image": "https://i.ibb.co/YQGtwK6/online-blog.jpg",
+        "title": "The Enchanted Forest",
+        "author": "Alice Johnson",
+        "author_image": "https://i.ibb.co/x243Sx5/young-bearded-man-with-striped-shirt.jpg",
+        "posted-date": "2023-09-15",
+        "reading-times": 256,
+        "hashtags": ["fantasy", "adventure", "magic"]
+     },
+     {
+        "id": "67890",
+        "cover_image": "https://i.ibb.co/YQGtwK6/online-blog.jpg",
+        "title": "Detective Chronicles",
+        "author": "John Doe",
+        "author_image": "https://i.ibb.co/x243Sx5/young-bearded-man-with-striped-shirt.jpg",
+        "posted-date": "2023-09-14",
+        "reading-times": 182,
+        "hashtags": ["mystery", "crime", "thriller"]
+     },
+     {
+        "id": "24680",
+        "cover_image": "https://i.ibb.co/YQGtwK6/online-blog.jpg",
+        "title": "Exploring the Cosmos",
+        "author": "Eva Smith",
+        "author_image": "https://i.ibb.co/x243Sx5/young-bearded-man-with-striped-shirt.jpg",
+        "posted-date": "2023-09-13",
+        "reading-times": 321,
+        "hashtags": ["science", "space", "exploration"]
+     },
+     {
+        "id": "13579",
+        "cover_image": "https://i.ibb.co/YQGtwK6/online-blog.jpg",
+        "title": "Gourmet Delights",
+        "author": "Daniel Brown",
+        "author_image": "https://i.ibb.co/x243Sx5/young-bearded-man-with-striped-shirt.jpg",
+        "posted-date": "2023-09-12",
+        "reading-times": 275,
+        "hashtags": ["food", "cooking", "cuisine"]
+     },
+     {
+        "id": "54321",
+        "cover_image": "https://i.ibb.co/YQGtwK6/online-blog.jpg",
+        "title": "Artistic Inspirations",
+        "author": "Sophia Turner",
+        "author_image": "https://i.ibb.co/x243Sx5/young-bearded-man-with-striped-shirt.jpg",
+        "posted-date": "2023-09-11",
+        "reading-times": 213,
+        "hashtags": ["art", "creativity", "inspiration"]
+     }               
+]
